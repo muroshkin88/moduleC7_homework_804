@@ -1,0 +1,22 @@
+{
+  "name": "moduleC7_homework_804",
+  "version": "1.0.0",
+  "description": "moduleC7_homework_804",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muroshkin88/moduleC7_homework_804.git"
+  },
+  "author": "_Nikolay_",
+  "license": "ISC",
+  "homepage": "https://github.com/muroshkin88/moduleC7_homework_804",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
